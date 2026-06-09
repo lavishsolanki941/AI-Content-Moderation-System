@@ -1,4 +1,4 @@
-# AI Content Moderation System — Backend
+# AI Content Moderation System 
 
 Multi-label toxic comment classifier built with scikit-learn + FastAPI.
 
